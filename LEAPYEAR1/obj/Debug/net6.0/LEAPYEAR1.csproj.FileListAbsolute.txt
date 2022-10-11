@@ -1,0 +1,15 @@
+C:\Users\sai\source\repos\LEAPYEAR1\LEAPYEAR1\obj\Debug\net6.0\LEAPYEAR1.csproj.AssemblyReference.cache
+C:\Users\sai\source\repos\LEAPYEAR1\LEAPYEAR1\obj\Debug\net6.0\LEAPYEAR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sai\source\repos\LEAPYEAR1\LEAPYEAR1\obj\Debug\net6.0\LEAPYEAR1.AssemblyInfoInputs.cache
+C:\Users\sai\source\repos\LEAPYEAR1\LEAPYEAR1\obj\Debug\net6.0\LEAPYEAR1.AssemblyInfo.cs
+C:\Users\sai\source\repos\LEAPYEAR1\LEAPYEAR1\obj\Debug\net6.0\LEAPYEAR1.csproj.CoreCompileInputs.cache
+C:\Users\sai\source\repos\LEAPYEAR1\LEAPYEAR1\bin\Debug\net6.0\LEAPYEAR1.exe
+C:\Users\sai\source\repos\LEAPYEAR1\LEAPYEAR1\bin\Debug\net6.0\LEAPYEAR1.deps.json
+C:\Users\sai\source\repos\LEAPYEAR1\LEAPYEAR1\bin\Debug\net6.0\LEAPYEAR1.runtimeconfig.json
+C:\Users\sai\source\repos\LEAPYEAR1\LEAPYEAR1\bin\Debug\net6.0\LEAPYEAR1.dll
+C:\Users\sai\source\repos\LEAPYEAR1\LEAPYEAR1\bin\Debug\net6.0\LEAPYEAR1.pdb
+C:\Users\sai\source\repos\LEAPYEAR1\LEAPYEAR1\obj\Debug\net6.0\LEAPYEAR1.dll
+C:\Users\sai\source\repos\LEAPYEAR1\LEAPYEAR1\obj\Debug\net6.0\refint\LEAPYEAR1.dll
+C:\Users\sai\source\repos\LEAPYEAR1\LEAPYEAR1\obj\Debug\net6.0\LEAPYEAR1.pdb
+C:\Users\sai\source\repos\LEAPYEAR1\LEAPYEAR1\obj\Debug\net6.0\LEAPYEAR1.genruntimeconfig.cache
+C:\Users\sai\source\repos\LEAPYEAR1\LEAPYEAR1\obj\Debug\net6.0\ref\LEAPYEAR1.dll
